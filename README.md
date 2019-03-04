@@ -1,5 +1,5 @@
 # Machine_Learning_Class_Project
-#### This is the [final project] (https://github.com/YDaiRice/Machine_Learning_Class_Project/blob/master/ML-CL8-Project.ipynb) for class Machine Learning by Python by IBM. Below are the summary.
+#### This is the [final project](https://github.com/YDaiRice/Machine_Learning_Class_Project/blob/master/ML-CL8-Project.ipynb) for class Machine Learning by Python by IBM. Below are the summary.
 * Data Visulization and Preprocessing
 * Feature Selection and Data Engineering
 * Find best model among the following classifiers
