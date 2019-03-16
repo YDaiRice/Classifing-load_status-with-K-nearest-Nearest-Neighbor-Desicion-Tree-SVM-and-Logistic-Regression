@@ -1,4 +1,4 @@
-# Machine_Learning_Class_Project
+# Classifing load_status with K-nearest Nearest Neighbor, Desicion Tree, SVM, and Logistic Regression
 #### This is the [final project code in jupyter notebook](ML-CL8-Project.ipynb) for class Machine Learning by Python by IBM. Below are the summary.
 * Data Visulization and Preprocessing
 * Feature Selection and Data Engineering
